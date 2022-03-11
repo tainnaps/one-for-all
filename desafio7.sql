@@ -1,6 +1,7 @@
-SELECT t1.artista,
-t1.album,
-t2.seguidores
+SELECT
+  t1.artista,
+  t1.album,
+  t2.seguidores
 FROM
   (
     SELECT

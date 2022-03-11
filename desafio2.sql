@@ -13,7 +13,7 @@ SELECT(
       SpotifyClone.Albums
   ) AS albuns,
   (
-  SELECT
+    SELECT
       COUNT(*)
     FROM
       SpotifyClone.Artists
