@@ -1,6 +1,6 @@
 # One For All ⭐
 
-Projeto de modelagem e consulta de um banco de dados SQL para armazenar dados de um serviço simples de streaming de música, respeitando a 1ª, 2ª e 3ª Formas Normais, desenvolvido durante o curso de Desenvolvimento Web Full Stack da [Trybe](https://www.betrybe.com/).
+Projeto de modelagem e consulta de um banco SQL para armazenar dados de um serviço simples de streaming de música, respeitando a 1ª, 2ª e 3ª Formas Normais, desenvolvido durante o curso de Desenvolvimento Web Full Stack da [Trybe](https://www.betrybe.com/).
 
 Cada arquivo iniciado pela palavra `desafio` armazena queries SQL escritas por mim.
 
