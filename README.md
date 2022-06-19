@@ -21,6 +21,14 @@ Os principais comandos SQL praticados nesse projeto foram:
 - CASE
 - LIKE
 
+## Diagrama do banco
+
+<img
+  src="https://64.media.tumblr.com/80d105e6b9093b5b7ae763eb5af68ff7/6665d2102b4dbae8-55/s1280x1920/b5c7e6b6be3e1fc13aec00813baec8aa59531124.pnj"
+  alt="Diagrama do banco de dados"
+  width="700px"
+/>
+
 ## Tecnologias
 As tecnologias utilizadas para o desenvolvimento do projeto foram:
 - MySQL
